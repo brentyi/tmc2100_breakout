@@ -1,0 +1,64 @@
+Added Component: Designator=1(QFN36)
+Added Component: Designator=C1(CAPC0402(1005)60_L)
+Added Component: Designator=C2(CAPC0402(1005)60_L)
+Added Component: Designator=C3(CAPC0603(1608)100_L)
+Added Component: Designator=C4(CAPC0402(1005)60_L)
+Added Component: Designator=C5(CAPC0402(1005)60_L)
+Added Component: Designator=C6(CAPC0402(1005)60_L)
+Added Component: Designator=C7(CAPC0402(1005)60_L)
+Added Component: Designator=C8(CAPC0402(1005)60_L)
+Added Component: Designator=R1(RESC0402(1005)_L)
+Added Component: Designator=R2(RESC0805(2012)_L)
+Added Component: Designator=R3(RESC0805(2012)_L)
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=GND Pin=1-10
+Added Pin To Net: NetName=GND Pin=1-11
+Added Pin To Net: NetName=GND Pin=1-12
+Added Pin To Net: NetName=GND Pin=1-24
+Added Pin To Net: NetName=GND Pin=1-35
+Added Pin To Net: NetName=GND Pin=1-36
+Added Pin To Net: NetName=GND Pin=1-GND_PAD
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1_8 Pin=1-8
+Added Pin To Net: NetName=Net1_8 Pin=C5-2
+Added Net: Name=Net1_8
+Added Pin To Net: NetName=Net1_14 Pin=1-14
+Added Pin To Net: NetName=Net1_14 Pin=R3-2
+Added Net: Name=Net1_14
+Added Pin To Net: NetName=Net1_16 Pin=1-16
+Added Pin To Net: NetName=Net1_16 Pin=1-31
+Added Pin To Net: NetName=Net1_16 Pin=C2-1
+Added Pin To Net: NetName=Net1_16 Pin=C3-1
+Added Net: Name=Net1_16
+Added Pin To Net: NetName=Net1_25 Pin=1-25
+Added Pin To Net: NetName=Net1_25 Pin=C6-2
+Added Pin To Net: NetName=Net1_25 Pin=R1-2
+Added Net: Name=Net1_25
+Added Pin To Net: NetName=Net1_26 Pin=1-26
+Added Pin To Net: NetName=Net1_26 Pin=C8-2
+Added Pin To Net: NetName=Net1_26 Pin=R1-1
+Added Net: Name=Net1_26
+Added Pin To Net: NetName=Net1_27 Pin=1-27
+Added Pin To Net: NetName=Net1_27 Pin=C7-1
+Added Net: Name=Net1_27
+Added Pin To Net: NetName=Net1_28 Pin=1-28
+Added Pin To Net: NetName=Net1_28 Pin=C7-2
+Added Net: Name=Net1_28
+Added Pin To Net: NetName=Net1_29 Pin=1-29
+Added Pin To Net: NetName=Net1_29 Pin=C4-1
+Added Net: Name=Net1_29
+Added Pin To Net: NetName=Net1_30 Pin=1-30
+Added Pin To Net: NetName=Net1_30 Pin=C1-1
+Added Net: Name=Net1_30
+Added Pin To Net: NetName=Net1_33 Pin=1-33
+Added Pin To Net: NetName=Net1_33 Pin=R2-2
+Added Net: Name=Net1_33
+Added Class: Name=StepperDriver

@@ -1,0 +1,13 @@
+Importer Log Report
+Project : TMC2100_QFN.PrjPcb
+
+Section : Analyze Document - \\psf\Home\Documents\quadrature-one-pcb\StepperDriver\TMC2100_QFN.LBR
+    Analyzing data of \\psf\Home\Documents\quadrature-one-pcb\StepperDriver\TMC2100_QFN.LBR
+    Load settings
+    Load layers 61
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
